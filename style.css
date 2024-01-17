@@ -1,0 +1,303 @@
+/* heading section  */
+.heading-1 {
+    background-image: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url(Images/Group\ 13\ \(1\)\ \(1\).png);
+    width: 1170px;
+    height: 500px;
+    flex-shrink: 0;
+    align-items: center;
+    margin: 50px auto;
+}
+
+.heading-text {
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 64px;
+    font-weight: 800;
+    padding-top: 106px;
+}
+
+.heading-description {
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.input-items {
+    display: inline-flex;
+    align-items: flex-start;
+    background: rgba(255, 255, 255, 0.30);
+    padding: 16px;
+    gap: 24px;
+    margin-left: 150px;
+    border-radius: 8px;
+}
+
+.input {
+    width: 174px;
+    height: 52px;
+    flex-shrink: 0;
+    background-color: #FFF;
+    border-radius: 8px;
+}
+
+.selector {
+    width: 174px;
+    height: 52px;
+    flex-shrink: 0;
+    background-color: #FFF;
+    border-radius: 8px;
+    color: rgba(19, 19, 24, 0.50);
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.btn-primary {
+    width: 174px;
+    height: 52px;
+    background-color: #FF5400;
+    color: white;
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.fa-solid {
+    color: #FFF;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.travel-agency {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+nav li {
+    list-style: none;
+
+}
+
+nav a {
+    text-decoration: none;
+    color: var(--Dark-02, #424247);
+    text-align: center;
+    font-family: Mulish;
+    font-size: 18px;
+}
+
+.nav-head {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.design-1 {
+    display: flex;
+    justify-content: space-around;
+    width: 1300px;
+    height: 500px;
+    margin: 50px auto;
+}
+
+.description-1 {
+    width: 577px;
+    color: rgba(19, 19, 24, 0.70);
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.title-1 {
+    color: #131318;
+    font-family: Mulish;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.img-1 {
+    width: 540px;
+    height: 500px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+    margin: 25px 25px;
+    gap: 25px;
+
+}
+
+.img-head {
+    color: #131318;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 41px;
+    font-weight: 800;
+}
+
+.img-description {
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.image-section-1 {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin: 25px 25px;
+}
+
+.image-section-2 {
+    display: flex;
+    justify-content: center;
+    margin: 25px 25px;
+    gap: 25px;
+}
+
+.heading-2 {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-top: 40px;
+}
+
+.service-1 {
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+    width: 573px;
+    height: 284px;
+}
+
+.service-2 {
+    border-radius: 16px;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05);
+    width: 573px;
+    height: 284px;
+}
+
+.service-3 {
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+    width: 573px;
+    height: 284px;
+    margin: 30px auto;
+    margin-bottom: 150px;
+}
+
+.image-section-3 {
+    display: flex;
+    justify-content: center;
+    margin: 80px 25px;
+    gap: 30px;
+}
+
+.service-4 {
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: red;
+    margin: 30px auto;
+    width: 300px;
+    height: 200px;
+}
+
+.discount {
+    font-size: 50px;
+    text-align: center;
+    font-weight: 900;
+    color: #FFF;
+}
+
+.video-section {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin: 25px 25px;
+
+}
+
+.video {
+    width: 500px;
+    height: 500px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+}
+
+.border {
+    border: 2px solid #FF5400;
+    border-radius: 10px;
+}
+
+.input-2 {
+    width: 393px;
+    height: 52px;
+    border-radius: 8px;
+    background: rgba(19, 19, 24, 0.05);
+    margin-bottom: 15px;
+}
+
+.text {
+    width: 324px;
+    height: 120px;
+    transform: rotate(-19.628deg);
+    border-radius: 16px;
+    background: #FF5400;
+    color: #FFF;
+    text-align: center;
+    margin: 250px auto;
+}
+
+.img-container {
+    border-radius: 16px;
+    background: url('Images/Rectangle\ 8\ \(1\).png');
+    width: 672px;
+    height: 422px;
+}
+
+.footer {
+    width: 1540px;
+    height: 502px;
+    background: rgba(19, 19, 24, 0.05);
+    text-align: center;
+    margin: 50px auto;
+}
+
+.travel-agency-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding-top: 100px;
+}
+
+.end {
+    padding-top: 70px;
+}
